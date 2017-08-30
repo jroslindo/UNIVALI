@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\personagem.o
+./release\templar.o
+./release\berserker.o
+./release\priest.o
+./release\sorcerer.o
+./release\arqueiro.o
+./release\assassino.o
+./release\jogador.o
+./release\monstro.o
+);

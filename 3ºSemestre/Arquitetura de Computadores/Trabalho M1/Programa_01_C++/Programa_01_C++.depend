@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1492112385 source:c:\users\gusta\desktop\arquitetura de computadores\trabalho m1\programa_01_c++\main.cpp
+	<iostream>
+	<stdlib.h>
+

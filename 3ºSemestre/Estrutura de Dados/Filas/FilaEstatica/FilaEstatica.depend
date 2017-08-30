@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1491484725 source:c:\users\6180655\desktop\filaestatica\main.cpp
+	<iostream>
+	"TADFilaEstatica.h"
+	"Banco.h"
+
+1491492046 c:\users\6180655\desktop\filaestatica\tadfilaestatica.h
+
+1491483730 c:\users\6180655\desktop\filaestatica\banco.h
+	"TADFilaEstatica.h"
+

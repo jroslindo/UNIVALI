@@ -1,0 +1,1 @@
+atributo global que é o mesmo em todas as subclasses "constante"

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1493848666 source:c:\users\gusta\desktop\estudos m2 estrutura\arvore binária\main.cpp
+	<iostream>
+	"TADArvoreBinaria.h"
+
+1493849551 c:\users\gusta\desktop\estudos m2 estrutura\arvore binária\tadarvorebinaria.h
+	<stdlib.h>
+	<time.h>
+
+1495626972 source:c:\users\6182909\desktop\arvore binária avl\main.cpp
+	<iostream>
+	"TADArvoreBinaria.h"
+
+1495628653 c:\users\6182909\desktop\arvore binária avl\tadarvorebinaria.h
+	<stdlib.h>
+	<time.h>
+
+1496167418 source:c:\users\joão\desktop\arvore binária avl-20170530t172501z-001\arvore binária avl\main.cpp
+	<iostream>
+	"TADArvoreBinaria.h"
+
+1496167110 c:\users\joão\desktop\arvore binária avl-20170530t172501z-001\arvore binária avl\tadarvorebinaria.h
+	<stdlib.h>
+	<time.h>
+

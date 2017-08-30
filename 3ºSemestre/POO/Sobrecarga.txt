@@ -1,0 +1,12 @@
+Dois ou mais metodos ou construtores possuem o mesmo nome, mas assinaturas diferentes. Pode ser utilizado na
+mesma classe.
+
+professoradministrativo :: setnome(string
+
+sobrescrever			professor::set(string)
+
+sobrecarga			professoradministrativo:: setnome(string,string)
+
+
+
+os causa dano

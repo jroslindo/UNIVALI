@@ -1,0 +1,3 @@
+[18:53, 16/5/2017] +55 47 9610-3321: metodo static                        
+
+[18:54, 16/5/2017] +55 47 9610-3321: metodo usado geralmente como contator q é estatico (n me diga...kkkk) ele é assim pois todas as classes irmas tem o msm valor naquela variavel

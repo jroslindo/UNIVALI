@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\personagem.o
+./debug\guerreiro.o
+./debug\mago.o
+./debug\ladino.o
+./debug\berserker.o
+./debug\templar.o
+./debug\sorcerer.o
+./debug\priest.o
+./debug\assassino.o
+./debug\arqueiro.o
+);

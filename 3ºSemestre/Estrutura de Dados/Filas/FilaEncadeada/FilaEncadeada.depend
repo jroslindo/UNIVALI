@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1491395619 source:c:\users\gusta\desktop\estrutura de dados\filas\filaencadeada\main.cpp
+	<iostream>
+	"TADFilaEncadeada.h"
+	"Banco.h"
+
+1491394617 c:\users\gusta\desktop\estrutura de dados\filas\filaencadeada\tadfilaencadeada.h
+
+1491395718 c:\users\gusta\desktop\estrutura de dados\filas\filaencadeada\banco.h
+	"TADFilaEncadeada.h"
+

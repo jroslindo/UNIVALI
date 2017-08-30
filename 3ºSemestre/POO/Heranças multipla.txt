@@ -1,0 +1,1 @@
+Ocorre quando uma subclasse herda membros de duas ou mais classes. Existe no c++, mas nao existe no java.

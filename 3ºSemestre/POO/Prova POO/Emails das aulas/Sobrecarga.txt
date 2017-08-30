@@ -1,0 +1,13 @@
+SOBRECARGA
+
+----------
+
+dois ou mais metodos possuem o mesmo nome, ma sassinaturas diferentes.
+pode ser utilizado na mesma classe
+
+
+professoradministrativo :: sernome (string)
+
+sobrescrever 		professor:: setnome(string)
+
+sobrecarga 		orifessiradministrativo:: setnome(string,string)

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1490725416 source:c:\users\gusta\desktop\estudos estrutura\genéricas\listaestatica\main.cpp
+	<iostream>
+	"TADListaEstaticaGenerica.h"
+	"Baralho.h"
+
+1490725476 c:\users\gusta\desktop\estudos estrutura\genéricas\listaestatica\tadlistaestaticagenerica.h
+
+1490664291 c:\users\gusta\desktop\estudos estrutura\genéricas\listaestatica\baralho.h
+	"TADListaEstaticaGenerica.h"
+

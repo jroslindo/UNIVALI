@@ -1,0 +1,3 @@
+Polimorfismo 
+
+-> classes mais genericas conseguem representar objetos de classe mais específicas;

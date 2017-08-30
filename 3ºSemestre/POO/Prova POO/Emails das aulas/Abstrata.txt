@@ -1,0 +1,22 @@
+[18:51, 16/5/2017] +55 47 9610-3321: totalmente abstrato
+
+classes q sao inteiramente virtuais com uma simples função, exemplo: uma classe q so tem uma função (imprimi sla oq)                       
+ 
+[18:51, 16/5/2017] +55 47 9610-3321: elas n tem atributos                     
+   
+[18:51, 16/5/2017] +55 47 9610-3321: nem cpp                       
+ 
+[18:51, 16/5/2017] Gustavo Copini: Hm                   
+     
+[18:52, 16/5/2017] Gustavo Copini: Vou anotar isso             
+           
+[18:52, 16/5/2017] Gustavo Copini: E abstrata ela só precisa ter um virtual                       
+ 
+[18:52, 16/5/2017] +55 47 9610-3321: exatamente             
+           
+[18:52, 16/5/2017] +55 47 9610-3321: virtual =0            
+
+            
+[18:52, 16/5/2017] Gustavo Copini: E um método abstrato precisa ter o =0              
+          
+[18:52, 16/5/2017] Gustavo Copini: Perfeito

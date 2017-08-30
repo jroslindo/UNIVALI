@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1492842033 source:c:\users\joão\desktop\trab 0.1\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"especifico.h"
+	"TADFila.h"
+
+1492840551 c:\users\joão\desktop\trab 0.1\especifico.h
+	"TADFila.h"
+
+1492841357 c:\users\joão\desktop\trab 0.1\tadfila.h
+
+1492880774 source:c:\users\joão\desktop\trab teste\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"especifico.h"
+	"TADFila.h"
+
+1492840551 c:\users\joão\desktop\trab teste\especifico.h
+	"TADFila.h"
+
+1492869900 c:\users\joão\desktop\trab teste\tadfila.h
+
+1492889150 source:c:\users\joão\desktop\trab 0,5\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"especifico.h"
+	"TADFila.h"
+
+1492888231 c:\users\joão\desktop\trab 0,5\especifico.h
+	"TADFila.h"
+
+1492889038 c:\users\joão\desktop\trab 0,5\tadfila.h
+
+1492920107 source:c:\users\joão\desktop\trab 1,0\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"especifico.h"
+	"TADFila.h"
+
+1492907955 c:\users\joão\desktop\trab 1,0\especifico.h
+	"TADFila.h"
+
+1492916667 c:\users\joão\desktop\trab 1,0\tadfila.h
+
+1492962923 source:c:\users\joão\desktop\trab2.0\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"especifico.h"
+	"TADFila.h"
+
+1492958804 c:\users\joão\desktop\trab2.0\especifico.h
+	"TADFila.h"
+
+1492959209 c:\users\joão\desktop\trab2.0\tadfila.h
+
+1492968625 source:c:\users\joão\desktop\trab3.0\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"especifico.h"
+	"TADFila.h"
+
+1492958804 c:\users\joão\desktop\trab3.0\especifico.h
+	"TADFila.h"
+
+1492959209 c:\users\joão\desktop\trab3.0\tadfila.h
+
+1493318399 source:c:\users\joao note\desktop\trab 4.0 (falta grafico)\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"especifico.h"
+	"TADFila.h"
+
+1493314886 c:\users\joao note\desktop\trab 4.0 (falta grafico)\especifico.h
+	"TADFila.h"
+
+1493315235 c:\users\joao note\desktop\trab 4.0 (falta grafico)\tadfila.h
+
+1493322278 source:c:\users\joao note\desktop\trab 9.9 (falta grafico)\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"especifico.h"
+	"TADFila.h"
+
+1493314886 c:\users\joao note\desktop\trab 9.9 (falta grafico)\especifico.h
+	"TADFila.h"
+
+1493315235 c:\users\joao note\desktop\trab 9.9 (falta grafico)\tadfila.h
+
+1493382099 source:c:\users\joao note\desktop\trab 10 (falta menu)-20170428t113448z-001\trab 10 (falta menu)\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"especifico.h"
+	"TADFila.h"
+
+1493307978 c:\users\joao note\desktop\trab 10 (falta menu)-20170428t113448z-001\trab 10 (falta menu)\especifico.h
+	"TADFila.h"
+
+1493307978 c:\users\joao note\desktop\trab 10 (falta menu)-20170428t113448z-001\trab 10 (falta menu)\tadfila.h
+
+1493677700 source:c:\users\joão\desktop\trab 11 (revisar) + relatorio-20170501t170655z-001\trab 11 (revisar) + relatorio\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"especifico.h"
+	"TADFila.h"
+
+1493643934 c:\users\joão\desktop\trab 11 (revisar) + relatorio-20170501t170655z-001\trab 11 (revisar) + relatorio\especifico.h
+	"TADFila.h"
+
+1493643934 c:\users\joão\desktop\trab 11 (revisar) + relatorio-20170501t170655z-001\trab 11 (revisar) + relatorio\tadfila.h
+
+1493665908 source:c:\users\gusta\desktop\simulador_de_fila\simulador_de_fila\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"especifico.h"
+	"TADFila.h"
+
+1493665908 c:\users\gusta\desktop\simulador_de_fila\simulador_de_fila\especifico.h
+	"TADFila.h"
+
+1493665908 c:\users\gusta\desktop\simulador_de_fila\simulador_de_fila\tadfila.h
+

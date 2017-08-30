@@ -1,0 +1,55 @@
+DEPTH = 256;	% Number of positions	%
+WIDTH = 32;	% Position size  	%
+
+ADDRESS_RADIX = HEX;
+DATA_RADIX    = HEX;
+
+CONTENT
+  BEGIN
+% The following addresses considers an offset that equals 0x04000020. In other
+  words, the first position (0x00000000) points to 0x04000020, an so on. %
+	00000000 : 08100005;
+	00000001 : 00854020; 
+	00000002 : 00c74820;
+	00000003 : 01091022;
+	00000004 : 03E00008;
+	00000005 : 20040004;
+	00000006 : 20050003;
+	00000007 : 20060002;
+	00000008 : 20070001;
+	00000009 : 0C100001;
+	0000000A : 00000000;
+	[0000000B..0000000F] : 00000000;
+END ;	
+
+
+%------------------------------------------------------------------------------%
+% Original assembly source code:
+
+# Trecho em C para validação do jr e do jal: 
+# int leaf_example (int g, int h, int i, int j) { 
+#    int f; 
+#    f = (g + h) - (i + j); 
+#    return f; 
+
+	.text   # segmento de código (programa) 
+	j   main 
+leaf_example:
+	add $t0, $a0, $a1   # $t0 = g + h 
+	add $t1, $a2, $a3   # $t1 = i + j 
+	sub $v0, $t0, $t1   # f = $t0 - $t1 
+	jr  $ra             # retorna do procedimento 
+      
+main:
+	addi $a0, $zero, 4  # inicializa 1º parâmetro (g) 
+	addi $a1, $zero, 3  # inicializa 2º parâmetro (h) 
+	addi $a2, $zero, 2  # inicializa 3º parâmetro (i) 
+	addi $a3, $zero, 1  # inicializa 4º parâmetro (j) 
+ 
+	jal leaf_example    # chama o procedimento 
+  
+	nop             # não faz nada. $v0 tem o resultado do procedimento 
+
+%
+
+	

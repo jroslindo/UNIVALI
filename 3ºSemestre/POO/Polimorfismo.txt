@@ -1,0 +1,8 @@
+Polimorfismo 
+
+Classes mais genericas conseguem representar objetos de classes mais especificas
+
+
+jogadores [5]
+
+aux....

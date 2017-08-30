@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1490798876 source:c:\users\gusta\desktop\estudos estrutura\genéricas\listaduplamenteencadeada\main.cpp
+	<iostream>
+	"TADListaDuplamenteEncadeadaGenerica.h"
+	"Baralho.h"
+
+1490799193 c:\users\gusta\desktop\estudos estrutura\genéricas\listaduplamenteencadeada\tadlistaduplamenteencadeadagenerica.h
+
+1490790233 c:\users\gusta\desktop\estudos estrutura\genéricas\listaduplamenteencadeada\baralho.h
+	"TADListaDuplamenteEncadeadaGenerica.h"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1492097985 source:c:\users\gusta\desktop\estudos estrutura\arvorebinaria\main.cpp
+	<iostream>
+	"TADArvoreBinaria.h"
+
+1492098265 c:\users\gusta\desktop\estudos estrutura\arvorebinaria\tadarvorebinaria.h
+
+1492694584 source:c:\users\gusta\desktop\estrutura de dados\estudos estrutura\arvorebinaria\main.cpp
+	<iostream>
+	"TADArvoreBinaria.h"
+	"TBanco.h"
+
+1492694289 c:\users\gusta\desktop\estrutura de dados\estudos estrutura\arvorebinaria\tadarvorebinaria.h
+
+1492603247 c:\users\gusta\desktop\estrutura de dados\estudos estrutura\arvorebinaria\tbanco.h
+

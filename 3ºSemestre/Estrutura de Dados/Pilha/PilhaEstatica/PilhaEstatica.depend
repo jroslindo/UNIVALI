@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1492000706 source:c:\users\gusta\desktop\estrutura de dados\pilha\pilhaestatica\main.cpp
+	<iostream>
+	"TADPilhaEstatica.h"
+	"Banco.h"
+
+1492000890 c:\users\gusta\desktop\estrutura de dados\pilha\pilhaestatica\tadpilhaestatica.h
+
+1491998336 c:\users\gusta\desktop\estrutura de dados\pilha\pilhaestatica\banco.h
+

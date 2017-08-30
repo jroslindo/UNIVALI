@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1495724748 source:c:\users\6186815\desktop\tabelah\main.cpp
+	<iostream>
+	"tabela.h"
+	"windows.h"
+
+1495724860 c:\users\6186815\desktop\tabelah\tabela.h
+	"windows.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1487931992 source:c:\users\gusta\desktop\poker\main.cpp
+	<iostream>
+	"TADListaEstatica.h"
+
+1487932124 c:\users\gusta\desktop\poker\tadlistaestatica.h
+
+1488969265 source:c:\users\gusta\desktop\estrutura de dados\poker\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"TADListaEstatica.h"
+
+1488969407 c:\users\gusta\desktop\estrutura de dados\poker\tadlistaestatica.h
+
+1488969265 source:c:\users\gusta\desktop\estrutura de dados\poker(antigo)\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"TADListaEstatica.h"
+
+1488969407 c:\users\gusta\desktop\estrutura de dados\poker(antigo)\tadlistaestatica.h
+

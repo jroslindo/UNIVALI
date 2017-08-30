@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1489069523 source:c:\users\gusta\desktop\listagenericaestatica\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"TADListaEstatica.h"
+	"Baralho.h"
+
+1489069523 c:\users\gusta\desktop\listagenericaestatica\tadlistaestatica.h
+
+1489069604 c:\users\gusta\desktop\listagenericaestatica\baralho.h
+	"TADListaEstatica.h"
+
+1489014648 source:c:\users\joão\desktop\listagenericaestatica\listagenericaestatica\main.cpp
+	<iostream>
+	"TADListaEstatica.h"
+	"Baralho.h"
+
+1489010980 c:\users\joão\desktop\listagenericaestatica\listagenericaestatica\tadlistaestatica.h
+
+1489014722 c:\users\joão\desktop\listagenericaestatica\listagenericaestatica\baralho.h
+	"TADListaEstatica.h"
+
+1489068361 source:c:\users\joao note\desktop\programação\lista generica estatica (falta funcoes poker)\lista generica estatica (falta funcoes poker)\listagenericaestatica\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"TADListaEstatica.h"
+	"Baralho.h"
+
+1489068309 c:\users\joao note\desktop\programação\lista generica estatica (falta funcoes poker)\lista generica estatica (falta funcoes poker)\listagenericaestatica\tadlistaestatica.h
+
+1489068385 c:\users\joao note\desktop\programação\lista generica estatica (falta funcoes poker)\lista generica estatica (falta funcoes poker)\listagenericaestatica\baralho.h
+	"TADListaEstatica.h"
+
+1489069523 source:c:\users\gusta\desktop\estrutura de dados\listagenericaestatica\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"TADListaEstatica.h"
+	"Baralho.h"
+
+1489069523 c:\users\gusta\desktop\estrutura de dados\listagenericaestatica\tadlistaestatica.h
+
+1489069683 c:\users\gusta\desktop\estrutura de dados\listagenericaestatica\baralho.h
+	"TADListaEstatica.h"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1491493900 source:e:\pilhaencadeada\main.cpp
+	<iostream>
+	"TADPilhaEncadeada.h"
+
+1491494214 e:\pilhaencadeada\tadpilhaencadeada.h
+
+1491997678 source:c:\users\gusta\desktop\estrutura de dados\pilha\pilhaencadeada\main.cpp
+	<iostream>
+	"TADPilhaEncadeada.h"
+	"Banco.h"
+
+1491997621 c:\users\gusta\desktop\estrutura de dados\pilha\pilhaencadeada\tadpilhaencadeada.h
+
+1491997410 c:\users\gusta\desktop\estrutura de dados\pilha\pilhaencadeada\banco.h
+	"TADPilhaEncadeada.h"
+

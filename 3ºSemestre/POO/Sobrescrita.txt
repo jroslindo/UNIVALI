@@ -1,0 +1,5 @@
+Dois ou mais metodos possuem a mesma assinata(nome e argumentos iguais, mesma sequencia de tipos).
+Funciona na hierarquia de herança, não funciona na mesma classe.
+
+
+os imprimir

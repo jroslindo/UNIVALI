@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1489581783 source:c:\users\joao note\desktop\programação\lista dinamica encadeada\main.cpp
+	<iostream>
+	<stdlib.h>
+	"lista_generica.h"
+	"playlist.h"
+
+1489593478 c:\users\joao note\desktop\programação\lista dinamica encadeada\playlist.h
+	"lista_generica.h"
+
+1489581528 c:\users\joao note\desktop\programação\lista dinamica encadeada\lista_generica.h
+
+1489616636 source:c:\users\joão\desktop\lista dinamica encadeada-20170315t193620z-001\lista dinamica encadeada\main.cpp
+	<iostream>
+	<stdlib.h>
+	"lista_generica.h"
+	"playlist.h"
+
+1489616453 c:\users\joão\desktop\lista dinamica encadeada-20170315t193620z-001\lista dinamica encadeada\lista_generica.h
+
+1489608277 c:\users\joão\desktop\lista dinamica encadeada-20170315t193620z-001\lista dinamica encadeada\playlist.h
+	"lista_generica.h"
+
+1489672988 source:c:\users\gusta\desktop\estrutura de dados\lista dinamica encadeada\main.cpp
+	<iostream>
+	<stdlib.h>
+	"lista_generica.h"
+	"playlist.h"
+
+1489672995 c:\users\gusta\desktop\estrutura de dados\lista dinamica encadeada\lista_generica.h
+
+1489671930 c:\users\gusta\desktop\estrutura de dados\lista dinamica encadeada\playlist.h
+	"lista_generica.h"
+

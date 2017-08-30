@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1496233046 source:c:\users\gusta\desktop\estrutura de dados\tabelahash\main.cpp
+	<iostream>
+	"TADHash.h"
+
+1496232870 c:\users\gusta\desktop\estrutura de dados\tabelahash\tadhash.h
+

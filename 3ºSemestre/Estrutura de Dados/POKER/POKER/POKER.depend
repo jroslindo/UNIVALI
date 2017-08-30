@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1488469988 source:c:\users\joao note\desktop\programação\poker\main.cpp
+	<iostream>
+	<time.h>
+	<ctime>
+	<stdlib.h>
+	"TadListaestatica.h"
+
+1488470158 c:\users\joao note\desktop\programação\poker\tadlistaestatica.h
+
+1488916410 source:c:\users\joão\desktop\poker-20170307t171414z-001 (1)\poker\main.cpp
+	<iostream>
+	<time.h>
+	<ctime>
+	<stdlib.h>
+	"TadListaestatica.h"
+
+1488929768 c:\users\joão\desktop\poker-20170307t171414z-001 (1)\poker\tadlistaestatica.h
+
+1488912132 source:c:\users\gusta\desktop\poker\poker\main.cpp
+	<iostream>
+	<time.h>
+	<ctime>
+	<stdlib.h>
+	"TadListaestatica.h"
+
+1488912134 c:\users\gusta\desktop\poker\poker\tadlistaestatica.h
+

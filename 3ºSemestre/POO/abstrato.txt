@@ -1,0 +1,19 @@
+totalmente abstrato
+
+possui apenas metodos abstratos =0 (virtual) e nao possui cpp e nem atributos
+
+abstrator
+
+possui pelo menor um metodo abstrato
+
+
+
+
+
+
+
+As classes abstratas servem unicamente para montarmos uma estrutura que utiliza fortemente a herança em seu modelo de projeto. Se em um projeto precisarmos de classes genéricas cujas especificações muitos objetos criados a partir das classes que fazem parte da herança serão obrigados a ter então pode-se utilizar as classes abstratas para montar esse tipo de estrutura.
+
+As classes concretas que irão herdar das classes abstratas irão implementar ou especializar as especificações herdadas. Por isso dizemos que as classes abstratas servem unicamente enquanto finalidade de um projeto.
+
+As classes abstratas não podem gerar objetos. Quando criamos a classe Animal para ilustrar sobre o conceito de polimorfismo utilizamos uma classe publica que permite a instanciação de objetos a partir dela. Se pensarmos um pouco iremos constatar que isto não é interessante para nós, o que iriamos fazer com um objeto do tipo Animal, caso ele fosse criado? As classes abstratas resolvem esse tipo de problema, podemos definir em nosso projeto quais classes serão concretas e quais serão abstratas servindo estas ultimas unicamente para definirmos as características gerais que se tornarão especificas nas classes concretas.

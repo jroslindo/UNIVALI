@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1490745531 source:c:\users\gusta\desktop\estudos estrutura\não genéricas\listaencadeada\main.cpp
+	<iostream>
+	"TADEncadeadaNGenerica.h"
+
+1490745543 c:\users\gusta\desktop\estudos estrutura\não genéricas\listaencadeada\tadencadeadangenerica.h
+
+1490739772 source:c:\users\gusta\desktop\estudos estrutura\genéricas\listaencadeada\main.cpp
+	<iostream>
+	"TADEncadeadaGenerica.h"
+	"Baralho.h"
+
+1490739832 c:\users\gusta\desktop\estudos estrutura\genéricas\listaencadeada\tadencadeadagenerica.h
+
+1490728649 c:\users\gusta\desktop\estudos estrutura\genéricas\listaencadeada\baralho.h
+	"TADEncadeadaGenerica.h"
+
